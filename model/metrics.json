@@ -1,0 +1,19 @@
+{
+    "accuracy": 0.9766816143497757,
+    "precision": 1.0,
+    "recall": 0.825503355704698,
+    "f1_score": 0.9044117647058824,
+    "confusion_matrix": [
+        [
+            966,
+            0
+        ],
+        [
+            26,
+            123
+        ]
+    ],
+    "total_messages": 5572,
+    "training_messages": 4457,
+    "testing_messages": 1115
+}
